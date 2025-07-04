@@ -1,0 +1,19 @@
+The following files are adapted from a published dataset by Daie et al. 2021.
+
+neuron.npz: stores the 2p activity of one neuron during session 74.
+- dt: length of a time point in seconds
+- nR: number of right trials*
+- nL: number of left trials
+- y: neural activity, of shape (n_trials x n_time); where n_trials=nR+nL. Note, the first nR trials of y are right trials, followed by nL left trials.
+- stim_time: time of stimuli on-, off-set, and go-cue onset, in time points
+
+* right and left trials denote the stimuli direction. Here, we only include data during trials when animals make a correct decision.
+
+---
+
+many_neuron.npz: stores the 2p activity of many neurons during session 74 (exactly how many is for you to figure out!).
+- dt: length of a time point in seconds
+- nR: number of right trials
+- nL: number of left trials
+- y: neural activity, of shape (n_trials x n_time x n_neurons); where n_trials=nR+nL. Note, the first nR trials of y are right trials, followed by nL left trials.
+- stim_time: time of stimuli on-, off-set, and go-cue onset, in time points

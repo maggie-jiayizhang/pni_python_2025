@@ -6,3 +6,6 @@ For Advanced Python workshop (PNI, summer 2025)
 | :-------- | ------- | :-------- |
 | 1  | July 7th | Data basics 
 | 2  | July 9th | Regressions
+
+# Packages to install
+`numpy`, `matplotlib`
