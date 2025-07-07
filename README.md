@@ -10,5 +10,4 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 | 2  | July 9th | Regressions
 
 # Packages to install
-`numpy`, `matplotlib`
-
+`numpy`, `matplotlib`, `seaborn`, `scikit-learn` (for July 9th)
