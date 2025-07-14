@@ -15,4 +15,4 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 `numpy`, `matplotlib`, `seaborn`, `scikit-learn` 
 
 ## Updates
-Added [July 14th (PCA)](./notebooks/july_14.ipynb)
+Added [reference for July 14th (PCA)](./notebooks/july_14_ref.ipynb)
