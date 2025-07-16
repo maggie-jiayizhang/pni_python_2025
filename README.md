@@ -12,7 +12,7 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 | 3  | July 14th | Principal Component Analysis (PCA)
 
 ## Packages to install
-`numpy`, `matplotlib`, `seaborn`, `scikit-learn` 
+`numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `umap`, `pandas`
 
 ## Updates
-Added [reference for July 14th (PCA)](./notebooks/july_14_ref.ipynb)
+Added [July 16 notebook](./notebooks/july_16.ipynb)
