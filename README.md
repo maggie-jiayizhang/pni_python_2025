@@ -17,5 +17,6 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 ## Packages to install
 `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `umap`, `pandas`, `torch`
 
+
 ## Updates
-Added [July 21 notebook](./notebooks/july_21.ipynb)
+Added [July 21 reference notebook](./notebooks/july_21_ref.ipynb)
