@@ -19,4 +19,4 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 
 
 ## Updates
-Added [July 21 reference notebook](./notebooks/july_21_ref.ipynb)
+Added [July 23 notebook](./notebooks/july_23.ipynb)
