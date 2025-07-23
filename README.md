@@ -1,11 +1,10 @@
 # pni_python_2025
-For Advanced Python workshop (PNI, summer 2025)
+For Advanced Python workshop (PNI, summer 2025), by Jiayi Zhang (jz6521).
 
 You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNIadvPY).
 
-
-## Tentative Content Roadmap (subject to change)
-|  Num   | Date |  Content |
+## Content Roadmap (subject to change)
+|  Session   | Date |  Content |
 | :-------- | ------- | :-------- |
 | 1  | July 7th | Data basics 
 | 2  | July 9th | Regressions
@@ -19,4 +18,4 @@ You can view quick notes, logistics in [this slide deck](https://tinyurl.com/PNI
 
 
 ## Updates
-Added [July 23 notebook](./notebooks/july_23.ipynb)
+Added [July 23 ref notebook](./notebooks/july_23_ref.ipynb). All materials are uploaded!
